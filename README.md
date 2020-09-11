@@ -20,9 +20,6 @@ For this project I was able to learn the following:
 - working with GTLF files using GLTFLoader.js 
 
 
-### Extras 
-
-Here's the link if you want to play: https://designisorion.github.io/The-Moon-Moves/
 
 
 
